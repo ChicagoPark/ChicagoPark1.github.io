@@ -1,17 +1,27 @@
 ---
 permalink: /
 layout: archive
-title: "About me"
-excerpt: "About me"
+title: "About"
+excerpt: "About"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-I am a rising fourth-year CSE student at Washington University in St. Louis (WashU), and incoming Ph.D student at <a href="https://cigroup.wustl.edu/">Computational Image Group</a>.
+• Current status: Rising fourth-year CSE student at Washington University in St. Louis (WashU)
 
-These days, I am working on model compression in inverse problem, motion-compensated learning for image reconstruction, and optimization.
+• Future recruitment: Incoming Ph.D student at <a href="https://cigroup.wustl.edu/">Computational Image Group</a>.
+
+• On-going research projects
+
+    (1) Neural network compression in the inverse problem
+    
+    (2) Motion-compensated learning for MR videos
+
+    (3) Theoretical analysis of plug-and-play extensions: ADMM and FISTA.
+
+
 
 <p>&nbsp;</p>
 
