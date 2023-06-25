@@ -56,8 +56,8 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter: "Ch2cago"
-  username               : &twitter
+twitter: 
+  username               : &Ch2cago
 facebook:
   username               :
   app_id                 :
