@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a rising fourth-year CSE student and incoming Ph.D student at <a href="https://cigroup.wustl.edu/">Computational Image Group</a>, Washington University in St. Louis.
+I am a rising fourth-year CSE student at Washington University in St. Louis (WashU), and incoming Ph.D student at <a href="https://cigroup.wustl.edu/">Computational Image Group</a>.
 
 These days, I am working on model compression in inverse problem, motion-compensated learning for image reconstruction, and optimization.
 
