@@ -13,16 +13,6 @@ redirect_from:
 
 • Academic status: Rising fourth-year CSE student at Washington University in St. Louis (WashU).
 
-• Future recruitment: Incoming Ph.D student at <a href="https://cigroup.wustl.edu/">Computational Image Group</a>.
-
-• On-going research projects
-
->> Neural network compression in the inverse problem
->    
->> Motion-compensated learning for MR videos
->
->> Theoretical analysis of plug-and-play extensions: ADMM and FISTA.
-
 
 
 <p>&nbsp;</p>
